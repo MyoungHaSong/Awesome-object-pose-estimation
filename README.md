@@ -29,7 +29,7 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
 
 
 - RGB
-  - Dep-6DPose: Recovering 6D Object Pose from a Single RGB Image - 2018 [[paper]](https://arxiv.org/abs/1802.10367)
+  - Deep-6DPose: Recovering 6D Object Pose from a Single RGB Image - 2018 [[paper]](https://arxiv.org/abs/1802.10367)
   - DeepIM: Deep Iterative Matching for 6D Pose Estimation - 2018  [[paper]](https://arxiv.org/abs/1804.00175)
 
 
