@@ -36,7 +36,7 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
   
   - PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes - 2017 [[paper]](https://arxiv.org/abs/1711.00199)[[code]](https://github.com/yuxng/PoseCNN)
 
-  - Deep-6DPose: Recovering 6D Object Pose from a Single RGB Image - 2018 [[paper]](https://arxiv.org/abs/1802.10367)[[code]](https://github.com/meiqua/6DPose)
+  - Dep-6DPose: Recovering 6D Object Pose from a Single RGB Image - 2018 [[paper]](https://arxiv.org/abs/1802.10367)[[code]](https://github.com/meiqua/6DPose)
   - DeepIM: Deep Iterative Matching for 6D Pose Estimation - 2018  [[paper]](https://arxiv.org/abs/1804.00175)[[code]](https://github.com/liyi14/mx-DeepIM)
 
 
@@ -46,3 +46,7 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
 - RGB and RGB-D  
 
   - iPose: Instance-Aware 6D Pose Estimation of Partly Occluded Objects[[paper]](https://arxiv.org/abs/1711.00199)
+  
+### etc.
+
+- BOP - Benchmark for 6D Object Pose Estimation-2018[[paper]](https://arxiv.org/abs/1808.08319)
