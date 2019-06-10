@@ -3,40 +3,13 @@
 This repository is a list of papers and open source code for 6D Object Pose Estimation.
 
 ---
+### Vision Based
 
-
-### Matching Based
-
-
-- RGB
-
-- RGB-D
-
-
-### Template Based
-
-
-- RGB
-
-- RGB-D
   - Multimodal Templates for Real-Time Detection of Texture-less Objects in Heavily Cluttered Scenes - 2011 [[paper]](http://campar.in.tum.de/pub/hinterstoisser2011linemod/hinterstoisser2011linemod.pdf) [[code]](http://campar.in.tum.de/pub/hinterstoisser2011linemod/hinterstoisser2011linemod.pdf)
-
-### Feature Learning Based
-
-
-- RGB
   - Uncertainty-Driven 6D Pose Estimation of Objects and Scenes from a Single RGB Image - 2016 IEEE [[paper]](http://wwwpub.zih.tu-dresden.de/~cvweb/publications/papers/2016/rgbpose.pdf)
+### Deep learning Based
 
-
-
-- RGB-D
-
-
-### CNN Based
-
-
-- RGB
-  
+ 
   - PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes - 2017 [[paper]](https://arxiv.org/abs/1711.00199)[[code]](https://github.com/yuxng/PoseCNN)
   - Real-Time Seamless Single Shot 6D Object Pose Prediction - 2018 [[paper]](https://arxiv.org/abs/1711.08848)[[code]](https://github.com/Microsoft/singleshotpose)
   
@@ -49,13 +22,10 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
   
   - 6D Object Pose Estimation without PnP -2019 [[paper]](https://arxiv.org/abs/1902.01728)
   
-
-- RGB-D
   - Implicit 3D Orientation Learning for 6D Object Detection from RGB Images - 2019 ECCV [[paper]](https://arxiv.org/abs/1902.01275)
 
-- RGB and RGB-D  
-
   - iPose: Instance-Aware 6D Pose Estimation of Partly Occluded Objects[[paper]](https://arxiv.org/abs/1711.00199)
+  - DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion[[paper]](https://arxiv.org/abs/1711.00199)[[code]](https://github.com/j96w/DenseFusion)
   
 ---
 ## Database
