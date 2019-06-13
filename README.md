@@ -26,6 +26,10 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
 
   - iPose: Instance-Aware 6D Pose Estimation of Partly Occluded Objects[[paper]](https://arxiv.org/abs/1711.00199)
   - DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion[[paper]](https://arxiv.org/abs/1711.00199)[[code]](https://github.com/j96w/DenseFusion)
+  - DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion[[paper]](https://arxiv.org/abs/1711.00199)[[code]](https://github.com/j96w/DenseFusion)
+  - Segmentation-driven 6D Object Pose Estimation[[paper]](https://arxiv.org/pdf/1812.02541.pdf)[[code]](https://github.com/cvlab-epfl/segmentation-driven-pose)
+
+  
   
 ---
 ## Database
