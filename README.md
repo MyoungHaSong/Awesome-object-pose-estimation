@@ -26,10 +26,13 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
   
   - 6D Object Pose Estimation without PnP -2019 [[paper]](https://arxiv.org/abs/1902.01728)
   
-  - Implicit 3D Orientation Learning for 6D Object Detection from RGB Images - 2019 ECCV [[paper]](https://arxiv.org/abs/1902.01275)
+  - Implicit 3D Orientation Learning for 6D Object Detection from RGB Images - 2018 ECCV [[paper]](https://arxiv.org/abs/1902.01275)
+  
+  - Normalized Object Coordinate Space for Category-Level 6D Object Pose and Size Estimation -2019 CVPR [[paper]](https://arxiv.org/abs/1901.02970)[[code]](https://github.com/hughw19/NOCS_CVPR2019)
+
 
   
-  - DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion[[paper]](https://arxiv.org/abs/1711.00199)[[code]](https://github.com/j96w/DenseFusion)[[Code Review]](https://github.com/MyungHaSong/DenseFusion-Code-Review)
+  - DenseFusion: 6D Object Pose Estimation by Iterative Dense Fusion -2019 CVPR [[paper]](https://arxiv.org/abs/1711.00199)[[code]](https://github.com/j96w/DenseFusion)[[Code Review]](https://github.com/MyungHaSong/DenseFusion-Code-Review)
  
   - Segmentation-driven 6D Object Pose Estimation - 2019 CVPR [[paper]](https://arxiv.org/pdf/1812.02541.pdf)[[code]](https://github.com/cvlab-epfl/segmentation-driven-pose)
 
