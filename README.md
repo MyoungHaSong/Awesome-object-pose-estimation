@@ -36,7 +36,7 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
  
   - Segmentation-driven 6D Object Pose Estimation - 2019 CVPR [[paper]](https://arxiv.org/pdf/1812.02541.pdf)[[code]](https://github.com/cvlab-epfl/segmentation-driven-pose)
 
-  
+  - DPOD: 6D Pose Object Detector and Refiner -2019 ICCV [[paper]](https://arxiv.org/pdf/1902.11020.pdf)
   
 ---
 ## Database
