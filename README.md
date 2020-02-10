@@ -10,7 +10,7 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
 ### Deep learning Based
 
   - bb8: A Scalable, Accurate, Robust to Partial Occlusion Method for Predicting the 3D Poses of Challenging Objects without Using Depth - 2017 ICCV [[paper]](https://arxiv.org/abs/1703.10896)[[ppt]](https://github.com/MyungHaSong/Awesome-object-pose-estimation/blob/master/bb8.pdf)
- - iPose: Instance-Aware 6D Pose Estimation of Partly Occluded Objects - 2017 [[paper]](https://arxiv.org/abs/1711.00199)
+ - iPose: Instance-Aware 6D Pose Estimation of Partly Occluded Objects - 2017 [[paper]](https://arxiv.org/abs/1712.01924)
  
   - PoseCNN: A Convolutional Neural Network for 6D Object Pose Estimation in Cluttered Scenes - 2017 [[paper]](https://arxiv.org/abs/1711.00199)[[code]](https://github.com/yuxng/PoseCNN)
    
@@ -37,6 +37,9 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
   - Segmentation-driven 6D Object Pose Estimation - 2019 CVPR [[paper]](https://arxiv.org/pdf/1812.02541.pdf)[[code]](https://github.com/cvlab-epfl/segmentation-driven-pose)
 
   - DPOD: 6D Pose Object Detector and Refiner -2019 ICCV [[paper]](https://arxiv.org/pdf/1902.11020.pdf)
+  
+  - Explaining the Ambiguity of Object Detection and 6D Pose From Visual Data -2019 ICCV[[paper]](https://arxiv.org/abs/1812.00287)
+  
   
 ---
 ## Database
