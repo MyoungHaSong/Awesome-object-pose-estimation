@@ -40,6 +40,11 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
   
   - Explaining the Ambiguity of Object Detection and 6D Pose From Visual Data -2019 ICCV[[paper]](https://arxiv.org/abs/1812.00287)
   
+  - W-PoseNet: Dense Correspondence Regularized Pixel Pair Pose Regression - 2019 CoRL[[paper]](https://arxiv.org/pdf/1912.11888.pdf)
+  
+  - 6D Pose Estimation with Correlation Fusion - 2019 arXiv.org [[paper]](https://arxiv.org/abs/1909.12936)
+
+  
   
 ---
 ## Database
