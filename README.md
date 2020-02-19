@@ -20,7 +20,7 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
 
   - Deep-6DPose: Recovering 6D Object Pose from a Single RGB Image - 2018 [[paper]](https://arxiv.org/abs/1802.10367)
   - DeepIM: Deep Iterative Matching for 6D Pose Estimation - 2018  [[paper]](https://arxiv.org/abs/1804.00175)[[code]](https://github.com/liyi14/mx-DeepIM)
-  - PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation -2018 [[paper]](https://arxiv.org/abs/1802.10367)[[code]](https://github.com/zju3dv/pvnet)
+  - PVNet: Pixel-wise Voting Network for 6DoF Pose Estimation -2018 [[paper]](https://arxiv.org/pdf/1812.11788.pdf)[[code]](https://github.com/zju3dv/pvnet)
 
   - 6D Object Pose Estimation Based on 2D Bounding Box - 2019 WSPC [[paper]](https://arxiv.org/abs/1901.09366)
   
