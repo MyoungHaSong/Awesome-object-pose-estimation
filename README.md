@@ -43,6 +43,10 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
   - W-PoseNet: Dense Correspondence Regularized Pixel Pair Pose Regression - 2019 CoRL[[paper]](https://arxiv.org/pdf/1912.11888.pdf)
   
   - 6D Pose Estimation with Correlation Fusion - 2019 arXiv.org [[paper]](https://arxiv.org/abs/1909.12936)
+  
+  - PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation -2020 CVPR [[paper]](https://arxiv.org/abs/1911.04231)[[code]](https://github.com/ethnhe/PVN3D)
+ 
+
 
   
   
