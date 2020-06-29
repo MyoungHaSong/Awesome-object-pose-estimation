@@ -45,9 +45,13 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
   - 6D Pose Estimation with Correlation Fusion - 2019 arXiv.org [[paper]](https://arxiv.org/abs/1909.12936)
   
   - PVN3D: A Deep Point-wise 3D Keypoints Voting Network for 6DoF Pose Estimation -2020 CVPR [[paper]](https://arxiv.org/abs/1911.04231)[[code]](https://github.com/ethnhe/PVN3D)
- 
-
-
+  - PFRL: Pose-Free Reinforcement Learning for 6D Pose Estimation - 2020 CVPR [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Shao_PFRL_Pose-Free_Reinforcement_Learning_for_6D_Pose_Estimation_CVPR_2020_paper.pdf)
+  - EPOS: Estimating 6D Pose of Objects with Symmetries - 2020 CVPR [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hodan_EPOS_Estimating_6D_Pose_of_Objects_With_Symmetries_CVPR_2020_paper.pdf)
+  - Learning Canonical Shape Space for Category-Level 6D Object Pose and Size Estimation -2020 CVPR [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Learning_Canonical_Shape_Space_for_Category-Level_6D_Object_Pose_and_CVPR_2020_paper.pdf)
+  - MoreFusion: Multi-object Reasoning for 6D Pose Estimation from Volumetric Fusion - 2020 CVPR(https://openaccess.thecvf.com/content_CVPR_2020/papers/Wada_MoreFusion_Multi-object_Reasoning_for_6D_Pose_Estimation_from_Volumetric_Fusion_CVPR_2020_paper.pdf)
+  - Single-Stage 6D Object Pose Estimation -2020 CVPR[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Single-Stage_6D_Object_Pose_Estimation_CVPR_2020_paper.pdf)
+  - G2L-Net: Global to Local Network for Real-time 6D Pose Estimation with Embedding Vector Features 2020 CVPR [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_G2L-Net_Global_to_Local_Network_for_Real-Time_6D_Pose_Estimation_CVPR_2020_paper.pdf)
+  - HybridPose: 6D Object Pose Estimation under Hybrid Representations[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_HybridPose_6D_Object_Pose_Estimation_Under_Hybrid_Representations_CVPR_2020_paper.pdf)
   
   
 ---
