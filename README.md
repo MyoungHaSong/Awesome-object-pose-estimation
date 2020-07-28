@@ -52,6 +52,8 @@ This repository is a list of papers and open source code for 6D Object Pose Esti
   - Single-Stage 6D Object Pose Estimation -2020 CVPR[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Hu_Single-Stage_6D_Object_Pose_Estimation_CVPR_2020_paper.pdf)
   - G2L-Net: Global to Local Network for Real-time 6D Pose Estimation with Embedding Vector Features 2020 CVPR [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_G2L-Net_Global_to_Local_Network_for_Real-Time_6D_Pose_Estimation_CVPR_2020_paper.pdf)
   - HybridPose: 6D Object Pose Estimation under Hybrid Representations[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Song_HybridPose_6D_Object_Pose_Estimation_Under_Hybrid_Representations_CVPR_2020_paper.pdf)
+  - Multi-Path Learning for Object Pose Estimation Across Domains[[paper]](https://openaccess.thecvf.com/content_CVPR_2020/html/Sundermeyer_Multi-Path_Learning_for_Object_Pose_Estimation_Across_Domains_CVPR_2020_paper.html) - 2020CVPR
+
   
   
 ---
